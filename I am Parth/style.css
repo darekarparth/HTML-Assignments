@@ -1,0 +1,349 @@
+body
+{
+  background-color:#ffc4a3;
+}
+/********* Navigation Design***********/
+#menu1
+{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  position:relative;
+  left: 700px;
+  bottom: 30px;
+  text-decoration: none;
+  color:#d92027 ;
+}
+#menu2
+{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  position:relative;
+  left: 750px;
+  bottom: 30px;
+  text-decoration: none;
+  color:#d92027 ;
+}
+#menu3
+{
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  position:relative;
+  left: 800px;
+  bottom: 30px;
+  text-decoration: none;
+  color:#d92027 ;
+}
+ .img
+ {
+  
+   position:relative;
+   left: 200px; 
+   height:100px; 
+   width:100px;
+
+  }
+
+/********* Top Design***********/
+ 
+
+  #heading
+  {
+    top: 25px;
+    left: 400px;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+    font-weight: 50px;
+    font-size: 100px;
+    color: #d63447 ;
+  }
+
+  #para
+  {
+    position: relative;
+    left: 560px;
+    font-family: 'Pacifico', cursive;
+    font-weight: 100px;
+    bottom:60px;
+    color: #d63447 
+    
+  }
+
+  #cloud1
+  {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left: 200px;
+    bottom:200px
+  }
+
+  #cloud2
+  {
+    position: relative;
+      height: 100px;
+    width: 100px;
+    left:830px ;
+    bottom:300px;
+  }
+
+  #mountain
+  {
+
+   position: relative;
+  top: 53px;
+  left:290px ;
+  height:250px ;
+  width:300px;
+  }
+
+ 
+  /********* Middle Design***********/ 
+  .middle
+  {
+    background-color: white ;
+    
+  }
+.img2
+{
+  
+  height: 100px;
+  width: 100px;
+  padding-left: 600px;
+  padding-top:50px;
+
+}
+
+#h3
+{
+  
+  font-size: 30px;
+  color:#303960;
+  padding-left:635px ;
+
+}
+
+#para1
+{
+  padding-left: 320px;
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+}
+
+.img3
+{
+ position: relative; 
+  height: 100px;
+  width: 100px;
+  left: 300px;
+  top:40px;
+
+}
+
+#h2
+{
+  
+  font-size: 30px;
+  color:#303960;
+  padding-left:550px ;
+
+}
+
+
+#h21
+{
+  position: relative;
+  font-size: 30px;
+  color:#5fdde5;
+  left:700px ;
+  top:10px ;
+  font-family: 'Pacifico', cursive;
+}
+
+#para2
+{
+  
+  position: relative;
+  left: 450px;
+  font-size: 30px;
+  bottom: 80px;
+  font-family: 'Pacifico', cursive;
+}
+
+.img4
+{
+ position: relative; 
+  height: 100px;
+  width: 100px;
+  left: 1100px;
+  top:40px;
+
+}
+
+
+
+
+#h22
+{
+  position: relative;
+  font-size: 30px;
+  color:#5fdde5;
+  left:400px ;
+  top:50px ;
+  font-family: 'Pacifico', cursive;
+
+}
+
+#para3
+{
+  
+  position: relative;
+  left: 300px;
+  font-size: 30px;
+  bottom: 80px;
+  font-family: 'Pacifico', cursive;
+}
+
+#h23
+{
+  position: relative;
+  font-size: 30px;
+  color:#5fdde5;
+  left:450px ;
+  font-family: 'Pacifico', cursive;
+}
+
+button
+{
+  background-color: #bbf1c8;
+  margin-left:550px ;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
+  color: #0e9aa7;
+  margin-bottom: 60px;
+  border: none;
+  font-weight: bold;
+  
+}
+
+/********* Bottom Design***********/ 
+
+#menu4
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  position:relative;
+  left: 250px;
+  bottom: 30px;
+  text-decoration: none;
+  color: #d92027;
+  
+}
+#menu5
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  position:relative;
+  left: 450px;
+  bottom: 30px;
+  text-decoration: none;
+  color: #d92027;
+  
+}
+#menu6
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 30px;
+  position:relative;
+  left: 650px;
+  bottom: 30px;
+  text-decoration: none;
+  color: #d92027;
+  
+}
+
+pre
+{
+  padding-left: 500px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color:#84142d ;
+  font-weight: bold;
+}
+
+/********* Work Page***********/
+/********* Top***********/
+
+#flag
+{
+
+position: absolute; 
+bottom: 200px;
+left:px ;
+height:200px ;
+width:200px;
+}
+
+#flag2
+{
+
+position: absolute; 
+bottom: 200px;
+left:950px ;
+height:200px ;
+width:200px;
+}
+
+#cloud3
+  {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left:100px;
+    bottom:200px
+  }
+
+#cloud4
+  {
+    position: relative;
+    height: 100px;
+    width: 100px;
+    left:950px ;
+    bottom:300px;
+  }
+
+  #heading2
+  {
+    top: 50px;
+    left: 550px;
+    position: relative;
+    font-family: 'Sacramento', cursive;
+    font-weight: 50px;
+    font-size: 100px;
+    color: #d63447 ;
+  }
+
+  #h3W
+  {
+    
+    font-size: 30px;
+    color:#303960;
+    padding-left:500px ;
+  
+  }
+  #h23W
+{
+  position: relative;
+  font-size: 30px;
+  color:#5fdde5;
+  left:500px ;
+  font-family: 'Courier New', Courier, monospace
+}
+
+#paraW
+{
+  padding-left: 320px;
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+
+}
